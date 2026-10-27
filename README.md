@@ -32,8 +32,9 @@ Ejercicio de la clase de Análisis de Datos. A partir de un registro de ventas, 
 
 **Herramientas:** fórmulas en hojas de cálculo.
 👉 [Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1F5VSaec-53Tl77TLqG97XknFt0GVnJ8lSY_DQqutx98/edit?usp=sharing)
+
 ### 3. Quadra Tech: plataforma de gestión de personas (RR. HH.)
-Proyecto grupal de cierre de año, presentado en una expo, desarrollado por (nombre 1), (nombre 2) y Valeria Zapata. Aplicación web hecha con **Google Apps Script** que reúne en un solo lugar trámites de recursos humanos que suelen estar repartidos entre planillas, correos y mensajes.
+Proyecto grupal de cierre de año, presentado en una expo, desarrollado por **Carla Migone, Valery Fredes y Valeria Zapata**. Aplicación web hecha con **Google Apps Script** que reúne en un solo lugar trámites de recursos humanos que suelen estar repartidos entre planillas, correos y mensajes.
 
 **Portal de Administración (RR. HH. y jefaturas)**
 - Nómina con filtros por área y sede
@@ -45,13 +46,10 @@ Proyecto grupal de cierre de año, presentado en una expo, desarrollado por (nom
 - Solicitud de vacaciones con seguimiento en línea
 - Liquidaciones y certificados para descargar
 
-**Mi participación:** (qué hiciste tú: diseño, fórmulas, código, pruebas, presentación...)
+**Mi participación:** colaboré en la creación de la aplicación web y desarrollé la base de datos completa en Google Sheets.
 
 **Herramientas:** Google Apps Script, Google Sheets, HTML/CSS/JavaScript.
 *Todos los datos son ficticios.*
-
-👉 [Abrir la aplicación](https://script.google.com/macros/s/AKfycbxtnXXmrkgbG3XJPsrDRb9sBlIaQkBLJNwVVvpXfdA9MhwWWNL3zMZ8G5gkox9T9yMECQ/exec)
-👉 [Ver la base de datos (hoja de asistencia)](https://docs.google.com/spreadsheets/d/1dBj3Ewhc3CkoFVs1MLGIb0AQ00IuD0gpiY7lx9ZLNI0/edit?usp=sharing) 
 
 #### Capturas de la aplicación
 
@@ -69,5 +67,9 @@ Proyecto grupal de cierre de año, presentado en una expo, desarrollado por (nom
 
 **Ficha del empleado**
 ![Ficha del empleado](Ficha.png)
+
+👉 [Abrir la aplicación](https://script.google.com/macros/s/AKfycbxtnXXmrkgbG3XJPsrDRb9sBlIaQkBLJNwVVvpXfdA9MhwWWNL3zMZ8G5gkox9T9yMECQ/exec)
+👉 [Ver la base de datos (hoja de asistencia)](https://docs.google.com/spreadsheets/d/1dBj3Ewhc3CkoFVs1MLGIb0AQ00IuD0gpiY7lx9ZLNI0/edit?usp=sharing)
+
 ## Contacto
 📧 valeriafernandam98@gmail.com
